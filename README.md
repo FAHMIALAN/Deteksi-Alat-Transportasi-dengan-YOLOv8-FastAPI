@@ -1,4 +1,4 @@
-# 🚗 Deteksi Alat Transportasi dengan YOLOv8 & FastAPI
+# Deteksi Alat Transportasi dengan YOLOv8 & FastAPI
 
 ## 📖 Ringkasan Proyek
 
@@ -138,17 +138,8 @@ Aplikasi sekarang siap digunakan!
   Men-deploy aplikasi ke platform seperti Heroku, Vercel, Render, atau VPS agar dapat diakses online.
 
 ---
-
-## 🤝 Kontribusi
-
-Pull request sangat terbuka!  
-Silakan fork proyek ini dan ajukan PR untuk penambahan fitur atau perbaikan bug.
-
----
-
-## 📄 Lisensi
-
-Proyek ini berada di bawah lisensi **MIT**.  
-Silakan digunakan, dimodifikasi, dan disebarluaskan secara bebas sesuai kebutuhan.
+## 📸 Tampilan Website
+<img src="gambar/sebelum.png">
+<img src="gambar/sesudah.png">
 
 ---
