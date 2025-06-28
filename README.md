@@ -36,7 +36,6 @@ transport_detector/
 ├── .venv/                  # Virtual environment lokal (tidak diupload)
 │
 ├── backend/                # Semua logika sisi server
-│   ├── __init__.py
 │   ├── main.py             # File utama API (FastAPI)
 │   ├── detect.py           # Logika deteksi objek dengan YOLOv8
 │   ├── utils.py            # Fungsi-fungsi pembantu
